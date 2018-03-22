@@ -1,3 +1,2 @@
 # Playground
-# Some changes to commit
-# Some more lines of text
+Testing some github stuff with VS Code.
